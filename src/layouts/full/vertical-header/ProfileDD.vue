@@ -58,7 +58,7 @@ const authStore = useAuthStore();
                         Unlimited<br />
                         Access
                     </h5>
-                    <v-btn variant="flat" color="primary" class="mt-3">Upgrade</v-btn>
+                    <v-btn href="/pages/pricing" variant="flat" color="primary" class="mt-3">Upgrade</v-btn>
                     <img src="@/assets/images/backgrounds/unlimited-bg.png" alt="bg-img" class="right-pos-img" />
                 </div>
             </div>

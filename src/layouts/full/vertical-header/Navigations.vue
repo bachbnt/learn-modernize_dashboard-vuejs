@@ -24,11 +24,11 @@ import { HelpIcon, ChevronDownIcon } from 'vue-tabler-icons';
                             <v-divider class="mt-6"></v-divider>
                             <div class="pa-5 pl-0">
                                 <div class="d-flex align-center justify-space-between">
-                                    <router-link to="/" class="text-decoration-none d-flex align-center">
+                                    <router-link to="/pages/faq" class="text-decoration-none d-flex align-center">
                                         <HelpIcon size="20" stroke-width="1.5" class="text-hover-primary" />
                                         <h6 class="text-subtitle-1 font-weight-bold text-hover-primary ml-2">Frequently Asked Questions</h6>
                                     </router-link>
-                                    <v-btn color="primary" variant="flat">Check</v-btn>
+                                    <!-- <v-btn color="primary" variant="flat">Check</v-btn> -->
                                 </div>
                             </div>
                         </div>
