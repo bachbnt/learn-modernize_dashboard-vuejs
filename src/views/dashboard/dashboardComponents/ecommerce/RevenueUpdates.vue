@@ -63,7 +63,7 @@ const chartOptions = computed(() => {
 });
 const seriescolumnchart = [
     {
-        name: 'Modernize',
+        name: 'ModernizeClone',
         data: [2.5, 3.7, 3.2, 2.6, 1.9]
     },
     {
@@ -73,7 +73,7 @@ const seriescolumnchart = [
 ];
 </script>
 <template>
-    <v-card elevation="10" >
+    <v-card elevation="10">
         <v-card-item>
             <v-card-title class="text-h5">Revenue Updates</v-card-title>
             <v-card-subtitle class="text-subtitle-1 textSecondary">Overview of Profit</v-card-subtitle>
@@ -90,9 +90,8 @@ const seriescolumnchart = [
     </v-card>
 </template>
 
-
 <style type="text/css">
 .revenuechart .apexcharts-bar-series.apexcharts-plot-series .apexcharts-series path {
-  clip-path: inset(0 0 5% 0 round 20px);
+    clip-path: inset(0 0 5% 0 round 20px);
 }
 </style>

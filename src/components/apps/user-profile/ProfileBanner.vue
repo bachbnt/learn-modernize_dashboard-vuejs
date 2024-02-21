@@ -11,8 +11,6 @@ const items = shallowRef([
     { tab: 'Friends', icon: UsersIcon, href: '/apps/user/profile/friends' },
     { tab: 'Gallery', icon: PhotoIcon, href: '/apps/user/profile/gallery' }
 ]);
-
-
 </script>
 
 <template>
@@ -45,11 +43,11 @@ const items = shallowRef([
                     <div class="text-center top-spacer">
                         <div class="avatar-border">
                             <v-avatar size="100" class="userImage">
-                                <img :src="UserImage" width="100" alt="Mathew" />
+                                <img :src="UserImage" width="100" alt="Bach" />
                             </v-avatar>
                         </div>
-                        <h5 class="text-h5 mt-3">Mathew Anderson</h5>
-                        <span class="text-h6 font-weight-regular">Designer</span>
+                        <h5 class="text-h5 mt-3">Bach Bui</h5>
+                        <span class="text-h6 font-weight-regular">Developer</span>
                     </div>
                 </v-col>
                 <v-col cols="12" lg="4" class="d-flex align-center justify-center justify-lg-end order-sm-third">

@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ArrowUpRightIcon, type ArrowRightIcon } from 'vue-tabler-icons';
-
 </script>
 <template>
     <v-card elevation="0" rounded="md" class="bg-lightprimary border-0">
@@ -8,15 +7,14 @@ import { ArrowUpRightIcon, type ArrowRightIcon } from 'vue-tabler-icons';
             <v-row>
                 <v-col cols="12" sm="6" class="pt-sm-10 pt-5">
                     <div class="d-flex align-center">
-                        <v-avatar size="40"><img src="@/assets/images/profile/user-1.jpg" height="40"
-                                alt="icon" /></v-avatar>
-                        <h5 class="text-h5 ml-4">Welcome back Mathew Anderson!</h5>
+                        <v-avatar size="40"><img src="@/assets/images/profile/user-1.jpg" height="40" alt="icon" /></v-avatar>
+                        <h5 class="text-h5 ml-4">Welcome back Bach Bui!</h5>
                     </div>
                     <div class="mt-8">
                         <div class="d-flex">
                             <div>
                                 <div class="d-flex">
-                                    <h2 class="text-h2 textPrimary">$2,340 </h2>
+                                    <h2 class="text-h2 textPrimary">$2,340</h2>
                                     <div class="mt-1 ml-1">
                                         <ArrowUpRightIcon stroke-width="1.5" size="22" class="text-success" />
                                     </div>
@@ -35,10 +33,9 @@ import { ArrowUpRightIcon, type ArrowRightIcon } from 'vue-tabler-icons';
                             </div>
                         </div>
                     </div>
-
                 </v-col>
                 <v-col cols="12" sm="6" class="text-sm-right">
-                    <div class="mb-n2 ">
+                    <div class="mb-n2">
                         <img src="@/assets/images/backgrounds/welcome-bg.svg" class="" alt="image" width="340" />
                     </div>
                 </v-col>

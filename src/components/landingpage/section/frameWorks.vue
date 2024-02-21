@@ -3,9 +3,9 @@
     <div class="platforms bg-hoverColor py-lg-16 py-5 mt-sm-16 mt-10">
         <v-container class="maxWidth">
             <v-row class="justify-center">
-                <v-col cols="12" sm="8" >
+                <v-col cols="12" sm="8">
                     <h2 class="sectionTitle text-center pt-sm-8 pt-8 font-weight-bold">
-                        Increase speed of your development and launch quickly with Modernize
+                        Increase speed of your development and launch quickly with ModernizeClone
                     </h2>
                 </v-col>
             </v-row>

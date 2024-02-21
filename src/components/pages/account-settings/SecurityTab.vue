@@ -4,7 +4,7 @@ import { ref } from 'vue';
 import { DeviceLaptopIcon, DeviceMobileIcon, DotsVerticalIcon } from 'vue-tabler-icons';
 </script>
 <template>
-    <v-card elevation="10" >
+    <v-card elevation="10">
         <v-row class="ma-sm-n2 ma-n1">
             <v-col cols="12" md="8">
                 <v-card elevation="10">
@@ -61,8 +61,8 @@ import { DeviceLaptopIcon, DeviceMobileIcon, DotsVerticalIcon } from 'vue-tabler
                                     <DeviceMobileIcon size="25" />
                                 </v-avatar>
                                 <div class="ml-3 pr-3">
-                                    <h6 class="text-h6 mb-1">iPhone 14</h6>
-                                    <h5 class="text-subtitle-1 text-medium-emphasis">London UK, Oct 23 at 1:15 AM</h5>
+                                    <h6 class="text-h6 mb-1">iPhone 13 Pro</h6>
+                                    <h5 class="text-subtitle-1 text-medium-emphasis">Khanh Hoa Province, Oct 23 at 1:15 AM</h5>
                                 </div>
                                 <v-btn size="30" icon variant="flat" class="lightprimary ml-auto">
                                     <v-avatar size="20">
@@ -76,8 +76,8 @@ import { DeviceLaptopIcon, DeviceMobileIcon, DotsVerticalIcon } from 'vue-tabler
                                     <DeviceLaptopIcon size="25" />
                                 </v-avatar>
                                 <div class="ml-3 pr-3">
-                                    <h6 class="text-h6 mb-1">Macbook Air</h6>
-                                    <h5 class="text-subtitle-1 text-medium-emphasis">Gujarat India, Oct 24 at 3:15 AM</h5>
+                                    <h6 class="text-h6 mb-1">Macbook Pro M1</h6>
+                                    <h5 class="text-subtitle-1 text-medium-emphasis">Ho Chi Minh City, Oct 24 at 3:15 AM</h5>
                                 </div>
                                 <v-btn size="30" icon variant="flat" class="lightprimary ml-auto">
                                     <v-avatar size="20">

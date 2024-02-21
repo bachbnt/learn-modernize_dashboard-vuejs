@@ -25,105 +25,103 @@ import img14 from '@/assets/images/landingpage/apps/app-checkout.jpg';
 import img15 from '@/assets/images/landingpage/apps/app-blog-detail.jpg';
 import img16 from '@/assets/images/landingpage/apps/app-product-detail.jpg';
 
-
 const productsSlider: ProductsSliderTypes[] = [
-     {
-        type:true,
+    {
+        type: true,
         img: img1,
         name: 'Main',
         link: 'https://modernize-vuejs.adminmart.com/dashboards/modern'
     },
     {
-        type:true,
+        type: true,
         img: img2,
         name: 'Dark',
         link: 'https://modernize-vue3-dark.netlify.app/dashboards/modern'
     },
     {
-        type:true,
+        type: true,
         img: img3,
         name: 'Horizontal',
         link: 'https://modernize-vue3-horizontal.netlify.app/dashboards/modern'
     },
     {
-        type:true,
+        type: true,
         img: img4,
         name: 'Minisidebar',
         link: 'https://modernize-vue3-minisidebar.netlify.app/dashboards/modern'
     },
     {
-        type:true,
+        type: true,
         img: img5,
         name: 'RTL',
         link: 'https://modernize-vue3-rtl.netlify.app/dashboards/modern'
     },
     {
-        type:false,
+        type: false,
         img: img6,
         name: 'Calandar App',
         link: '/apps/calendar'
     },
     {
-        type:false,
+        type: false,
         img: img7,
         name: 'Chat App',
         link: '/apps/chats'
     },
     {
-        type:false,
+        type: false,
         img: img8,
         name: 'Contact App',
         link: '/apps/contacts'
     },
     {
-        type:false,
+        type: false,
         img: img9,
         name: 'User Profile App',
         link: '/apps/user/profile'
     },
     {
-        type:false,
+        type: false,
         img: img10,
         name: 'Notes App',
         link: '/apps/notes'
     },
     {
-        type:false,
+        type: false,
         img: img11,
         name: 'Blog App',
         link: '/apps/blog/posts'
     },
     {
-        type:false,
+        type: false,
         img: img15,
         name: 'Blog Detail App',
         link: '/apps/blog/early-black-friday-amazon-deals-cheap-tvs-headphones'
     },
     {
-        type:false,
+        type: false,
         img: img12,
         name: 'eCommerce Shop App',
         link: '/ecommerce/products'
     },
     {
-        type:false,
+        type: false,
         img: img16,
         name: 'eCommerce Product Detail App',
         link: '/ecommerce/product/detail/1'
     },
     {
-        type:false,
+        type: false,
         img: img13,
         name: 'eCommerce Product List App',
         link: '/ecommerce/productlist'
     },
     {
-        type:false,
+        type: false,
         img: img14,
         name: 'eCommerce Checkout App',
         link: '/ecommerce/checkout'
-    },
-
+    }
 ];
 
 /*User Review Section*/
@@ -206,7 +204,7 @@ const listFeature: ListFeatureTypes[] = [
     {
         icon: WandIcon,
         title: '6 Theme Colors',
-        subtitle: 'We have included 6 pre-defined Theme Colors with Modernize Admin.'
+        subtitle: 'We have included 6 pre-defined Theme Colors with ModernizeClone Admin.'
     },
     {
         icon: ShieldLockIcon,
@@ -221,7 +219,7 @@ const listFeature: ListFeatureTypes[] = [
     {
         icon: AdjustmentsIcon,
         title: '45+ UI Components',
-        subtitle: 'Almost 45+ UI Components being given with Modernize Admin Pack.'
+        subtitle: 'Almost 45+ UI Components being given with ModernizeClone Admin Pack.'
     },
     {
         icon: TagIcon,
@@ -231,7 +229,7 @@ const listFeature: ListFeatureTypes[] = [
     {
         icon: DiamondIcon,
         title: '3400+ Font Icons',
-        subtitle: 'Lots of Icon Fonts are included here in the package of Modernize Admin.'
+        subtitle: 'Lots of Icon Fonts are included here in the package of ModernizeClone Admin.'
     },
     {
         icon: DatabaseIcon,

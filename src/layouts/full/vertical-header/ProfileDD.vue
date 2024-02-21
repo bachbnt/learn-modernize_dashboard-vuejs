@@ -27,11 +27,11 @@ const authStore = useAuthStore();
                         <img src="@/assets/images/profile/user-1.jpg" width="80" />
                     </v-avatar>
                     <div class="ml-3">
-                        <h6 class="text-h6 mb-n1">Mathew Anderson</h6>
-                        <span class="text-subtitle-1 font-weight-regular textSecondary">Designer</span>
+                        <h6 class="text-h6 mb-n1">Bach Bui</h6>
+                        <span class="text-subtitle-1 font-weight-regular textSecondary">Developer</span>
                         <div class="d-flex align-center mt-1">
                             <MailIcon size="18" stroke-width="1.5" />
-                            <span class="text-subtitle-1 font-weight-regular textSecondary ml-2">info@modernize.com</span>
+                            <span class="text-subtitle-1 font-weight-regular textSecondary ml-2">bach@gmail.com</span>
                         </div>
                     </div>
                 </div>

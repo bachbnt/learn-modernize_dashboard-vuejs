@@ -12,7 +12,7 @@
                             Most powerful & <span class="text-primary">Developer friendly</span> VueJs dashboard
                         </h1>
                         <p class="pt-8 pb-6 text-h5 font-weight-regular" data-aos="fade-up" data-aos-duration="800">
-                            Modernize comes with light & dark color skins, well designed dashboards, applications and pages.
+                            ModernizeClone comes with light & dark color skins, well designed dashboards, applications and pages.
                         </p>
                         <div class="mt-6 d-sm-flex gap-3" data-aos="fade-up" data-aos-duration="1000">
                             <v-btn target="_blank" href="/auth/login" color="primary" size="large" class="m-btn-full btn-custom-lg" flat
